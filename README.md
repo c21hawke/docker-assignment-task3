@@ -70,6 +70,13 @@
   docker push c21hawke/hello-world:v0.1
   ```
   
+ - To run hello-world local machine or in docker playground, run the below command
+ - [DockerPlayground](https://labs.play-with-docker.com/)
+  ```bash
+  docker pull c21hawke/hello-world:v0.1
+  ```
+  
+  
   
 ## License
 
